@@ -1,4 +1,4 @@
-This is a repository that contains all the codes and projects done in the video:
+This is a repository that contains all the codes and projects done in the video: <br>
 https://youtu.be/UrsmFxEIp5k?si=g_N7YwbJZkf0ph4V
 
 Author: Rahul Pandya
